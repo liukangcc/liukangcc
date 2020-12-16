@@ -4,7 +4,7 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>abababa.
+  <samp>if you work hard and you will make progree everyday.
   </samp>
 </p>
 
