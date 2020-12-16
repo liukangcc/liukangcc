@@ -4,7 +4,7 @@
 
 <h2 align="center"> 👨‍💻 </h2>
 <p align="center">
-  <samp>if you work hard and you will make progree everyday.
+  <samp>if you work hard and you will make progress everyday.
   </samp>
 </p>
 
