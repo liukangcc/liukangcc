@@ -10,20 +10,12 @@
 
 ---
 
-
-
 ![code](code.gif)
-
-
 
 ----
 
 
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thread-liu&layout=compact&theme=dark&show_icons=true"  width="400" align="left" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thread-liu&theme=dark&show_icons=true" align="left" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thread-liu&theme=dark&show_icons=true" align="right" />
 </a>
