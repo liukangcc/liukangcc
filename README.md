@@ -5,5 +5,5 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thread-liu&langs_count=10&layout=compact&theme=dark&show_icons=true" align="left" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thread-liu&theme=dark&show_icons=true&count_private=true" width="400" align="right" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thread-liu&theme=dark&show_icons=true&count_private=true"  align="right" />
 </a>
